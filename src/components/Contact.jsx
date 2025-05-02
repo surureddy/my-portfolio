@@ -14,12 +14,12 @@ export default function Contact() {
     {
       title: "Suraj Aqua Website",
       description: "SurajAqua is a website developed using Next.js, focused on providing seamless and interactive user experiences. It is designed to be responsive, fast, and scalable, leveraging Next.js's features like server-side rendering (SSR) for optimized performance and SEO.",
-      link: "#",
+      link: "https://github.com/surureddy/Suraj-Aqua-v2.0",
     },
     {
       title: "SreeCam Security Website",
       description: "SreeCam Security is a website developed using Next.js, focused on providing seamless and interactive user experiences. It is designed to be responsive, fast, and scalable, leveraging Next.js's features like server-side rendering (SSR) for optimized performance and SEO.",
-      link: "#",
+      link: "https://github.com/surureddy/sreecam_security",
     },
   ];
 
